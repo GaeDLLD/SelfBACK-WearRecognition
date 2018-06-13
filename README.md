@@ -2,12 +2,13 @@
 
 A RGU SelfBACK project allowing to stream Android Wear sensor data on the Android phone
 
-![SelfBACK logo](https://gaetan.delalande.ovh/selfback-wear-recognition/logo-selfback.png)      	| ![RGU logo](https://gaetan.delalande.ovh/selfback-wear-recognition/rgu-logo.png) 
+![SelfBACK logo](https://gaetan.delalande.ovh/selfback-wear-recognition/images/logo-selfback.png)      	| ![RGU logo](https://gaetan.delalande.ovh/selfback-wear-recognition/images/rgu-logo.png) 
 |-|-|
 
 # Application
 
-
+![SelfBACK logo](https://gaetan.delalande.ovh/selfback-wear-recognition/images/record-watch.mov)      	| ![RGU logo](https://gaetan.delalande.ovh/selfback-wear-recognition/rgu-logo.png) 
+|-|-|
 
 
 ## UML diagrams
