@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SelfBACK</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SelfBACK Wear Recognition</string>
+    <string name="nav_header_subtitle">No connected</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="live_activities_title">Live Activities</string>
+    <string name="sensor_settings_title">Watch Sensors</string>
+    <string name="action_save">Save data</string>
+</resources>

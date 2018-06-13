@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Pages string -->
+    <string name="walk_page_label">Walking</string>
+    <string name="run_page_label">Running</string>
+    <string name="up_page_label">Going up</string>
+    <string name="down_page_label">Going down</string>
+    <string name="run_up_page_label">Running to upstairs</string>
+    <string name="run_down_page_label">Running to downstairs</string>
+    <string name="walk_down_page_label">Walking to downstairs</string>
+    <string name="walk_up_page_label">Walking to upstairs</string>
+    <string name="seat_page_label">Seating</string>
+    <string name="no_user_state">No user state</string>
+    <string name="lying_page_label">Lying</string>
+    <string name="stand_page_label">Standing</string>
+    <string name="bike_page_label">Biking</string>
+    <string name="setting_title">Settings</string>
+    <string name="activities_title">Activities</string>
+    <string name="sensor_setting_title">Sensor Settings</string>
+
+    <!-- Sensor Title -->
+    <string name="sensor_accelerometer">Accelerometer</string>
+
+</resources>
