@@ -7,7 +7,7 @@ A RGU SelfBACK project allowing to stream Android Wear sensor data on the Androi
 
 # Application
 
-![SelfBACK logo](https://gaetan.delalande.ovh/selfback-wear-recognition/images/record-watch.mov)      	| ![RGU logo](https://gaetan.delalande.ovh/selfback-wear-recognition/rgu-logo.png) 
+![SelfBACK logo](https://gaetan.delalande.ovh/selfback-wear-recognition/images/record-watch.mov)      	| ![RGU logo](https://gaetan.delalande.ovh/selfback-wear-recognition/images/record-watch.mov) 
 |-|-|
 
 
